@@ -3,22 +3,13 @@ A comprehensive, interactive Operating Systems simulator themed around a 911 Eme
 
 Instead of abstract numbers, this system maps traditional OS concepts to physical dispatch logistics:
 
-Processes 
-→
- Incoming 911 Emergencies
-CPU 
-→
- Emergency Response Units
-RAM 
-→
- Dispatcher Radio/Video Bandwidth
-Virtual Pages 
-→
- Active Dispatcher Dashboard Monitors
-Disk Head 
-→
- Drone/Patrol Car Routing
-⚙️ Core OS Implementations
+Processes → Incoming 911 Emergencies
+CPU → Emergency Response Units
+RAM → Dispatcher Radio/Video Bandwidth
+Virtual Pages → Active Dispatcher Dashboard Monitors
+Disk Head → Drone/Patrol Car Routing
+
+#⚙️ Core OS Implementations
 The dashboard features five dynamic modules:
 
 CPU Scheduling: Preemptive and non-preemptive task management with live Gantt chart generation. (FCFS, SJF, SRTF, Round Robin)
